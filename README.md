@@ -1,2 +1,2 @@
 # hidrive-bashscript
-bash script to mount hidrive via webdav protocol
+Example bash-scripts to mount a hidrive via webdav protocol in Linux.
